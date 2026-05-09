@@ -188,4 +188,4 @@ flask-cors
 
 ## License
 
-MIT — free to use, modify, and distribute.
+No Restrictions — free to use, modify, and distribute.
