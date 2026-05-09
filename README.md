@@ -182,6 +182,10 @@ flask-cors
 
 ---
 
+## Demo Video
+
+🎬 [Watch the video](https://youtu.be/YlF_4pzqonQ)
+
 ## License
 
 MIT — free to use, modify, and distribute.
