@@ -182,9 +182,9 @@ flask-cors
 
 ---
 
-## Demo Video
+## Project Demo Video
 
-🎬 [Watch the video](https://youtu.be/YlF_4pzqonQ)
+[![Watch the video](https://img.youtube.com/vi/https://youtu.be/YlF_4pzqonQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=https://youtu.be/YlF_4pzqonQ)
 
 ## License
 
